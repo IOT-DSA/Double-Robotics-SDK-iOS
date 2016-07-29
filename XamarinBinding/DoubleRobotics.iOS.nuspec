@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DoubleRobotics.iOS</id>
+    <version>0.1.1</version>
+    <authors>Logan Gorence</authors>
+    <title>DoubleRobotics.iOS</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# binding for DoubleRobotics iOS SDK</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+  <files>
+    <file src="bin/Release/DoubleRobotics.iOS.dll" target="lib/Xamarin.iOS10" />
+  </files>
+</package>
